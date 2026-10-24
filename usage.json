@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-descriptors",
+  "packageVersion": "1.38.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-descriptors",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-descriptors",
+  "sourceRepository": "https://github.com/x12i/memorix-descriptors",
+  "sourceCommit": "2cdc1fda7ba2ca31875c21edb41208bb3b6e5491",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Build and validate canonical association property names",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:22:41.448784+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "0e2bdfce4c8bbc465684f55db03ad36253f01a6a6d0c8a75d737c8dff58c3e93",
+    "manifestSha256": "c5e7b83af9c169d083531328be089d00f16b31cab5d309893ce65fb942e3221d"
+  },
+  "validationFiles": {
+    "src/index.mjs": "0e2bdfce4c8bbc465684f55db03ad36253f01a6a6d0c8a75d737c8dff58c3e93"
+  }
+}
